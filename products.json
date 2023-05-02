@@ -1,0 +1,74 @@
+[
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla urbana clasica",
+    "price": 1245,
+    "thumbnail": "./foto.js",
+    "Stock": "10",
+    "id": 1
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla urbana clasica",
+    "price": 1245,
+    "thumbnail": "./foto1.js",
+    "Stock": "10",
+    "id": 2
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla urbana clasica",
+    "price": 1245,
+    "thumbnail": "./foto2.js",
+    "Stock": "10",
+    "id": 3
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla urbana clasica",
+    "price": 1245,
+    "thumbnail": "./foto3.js",
+    "Stock": "10",
+    "id": 4
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla deportive static",
+    "price": 2350,
+    "thumbnail": "./foto4.js",
+    "Stock": "10",
+    "id": 5
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla vestir poractive",
+    "price": 998,
+    "thumbnail": "./foto5.js",
+    "Stock": "10",
+    "id": 6
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla deportive super starr",
+    "price": 1390,
+    "thumbnail": "./foto6.js",
+    "Stock": "10",
+    "id": 7
+  },
+  {
+    "title": "zapatilla nike",
+    "description": "zapatilla urbana blsck",
+    "price": 1425,
+    "thumbnail": "./foto7.js",
+    "Stock": "10",
+    "id": 8
+  },
+  {
+    "title": "Zapatilla NIke modificada  ",
+    "description": "zapatilla nike Editada",
+    "price": 835,
+    "thumbnail": "./foto8.js",
+    "Stock": "10",
+    "id": 9
+  }
+]
